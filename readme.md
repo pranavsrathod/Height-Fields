@@ -35,4 +35,4 @@ For detailed setup instructions, please refer to the [assignment page](https://v
 ## Extra Credit.
 - When using key "4", Implemented the JetColorMap function in the vertex shader. Speficially, changed the grayscale color x to JetColorMap(x). 
 - Note that even after color is computed with JetColorMap outputColor <--- pow(y, exponent) is applied to the resulting color.# Height-Fields
-# Height-Fields
+
